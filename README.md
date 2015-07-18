@@ -1,6 +1,6 @@
 # Jeaux.com Contests
 
-A collection of fantasy games and contests on jeaux.com.
+A collection of fantasy games and contests on contests.jeaux.com.
 
 ## Requirements
 
